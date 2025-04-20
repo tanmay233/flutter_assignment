@@ -1,17 +1,9 @@
-# project1
+# Flutter Assignment
 
-A new Flutter project.
+I have attempted to make the a Fluter web App close to the UI provided. But i have implemented the features accuratly that i feel to be added in the UI 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The app is responsive in mobile as well as desktop browser. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_assignment
+I have used a dummy data fill the table of the orders and implemented the necessary features.
